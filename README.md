@@ -29,4 +29,4 @@ print("Crockford " .. basexx.to_crockford(string))
 ```
 
 See the example folder for a cart that uses `dynInclude()`<br>
-See https://github.com/PyroChiliarch/picoBasexx/blob/main/src/main.lua for an example installer.
+See https://github.com/PyroChiliarch/picoBasexx/blob/main/src/main.lua for an example installer that is compatible with dynInclude
